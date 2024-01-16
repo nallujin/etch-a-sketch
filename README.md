@@ -4,4 +4,6 @@
 
 ### This is my take at the etch-a-sketch project. 3rd project I'm trying to do.
 
-### You can see it live [here](https://darklania.github.io/etchasketch/).
+<!---
+Pardon me, I copied the README from the other repo. 🙏
+-->
