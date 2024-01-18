@@ -13,13 +13,25 @@ html {
   flex-wrap: wrap;
 }
 
-.container>div {
+/*.container>div {*/
+/*  border: 1px solid #000;*/
+/*  height: 25px;*/
+/*  width: 25px;*/
+/*}*/
+
+/*.container>div:nth-child(11n+1) {*/
+/*  width: 100%;*/
+/*  border: 0;*/
+/*  height: 0;*/
+/*}*/
+
+.normal-div {
   border: 1px solid #000;
   height: 25px;
   width: 25px;
 }
 
-.container>div:nth-child(17n+1) {
+.another-div {
   width: 100%;
   border: 0;
   height: 0;
